@@ -85,6 +85,9 @@ span{
 	text-align: center;
 	color: #070707;
 }
+.skills{
+	margin-bottom: 45px;
+}
 .skills-title{
 	font-family: 'Robot';
 	font-size: 34px;
@@ -110,10 +113,11 @@ span{
 }
 .portfolio{
 	background: #F6F6F6;
-	padding: 99px;
+	padding-top: 15px;
+	padding-bottom: 99px;
 }
 .portfolio-title{
-	padding-top: 112px;
+	padding-top: 45px;
 	font-family: 'Roboto';
 	font-size: 34px;
 	line-height: 42px;
